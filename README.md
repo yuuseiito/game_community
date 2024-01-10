@@ -56,3 +56,5 @@ Things you may want to cover:
 
 # 使用素材
 - 現状なし
+
+https://docs.google.com/spreadsheets/d/1HJrRt8k9H4FnuNvoglEmuJER7OVS-jQN9VDiKXyIzjI/edit?usp=sharing
